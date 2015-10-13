@@ -1,2 +1,2 @@
 # sandbox
-sandbox for git experiments
+Sandbox for GIT experiments.
